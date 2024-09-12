@@ -7,7 +7,6 @@ Devops Engineer | SRE
 I'm always exploring new technologies to make cloud systems more efficient. I love sharing knowledge and collaborating with others on innovative projects.
 
 *   🌍  I'm based in Amsterdam, Netherlands
-*   🖥️  See my portfolio at [Website](https://www.alyanaangeles.com)
 *   ✉️  You can contact me at [alyanaangeles@gmail.com](mailto:alyanaangeles@gmail.com)
 *   🧠  I'm learning Go
 *   🤝  I'm open to collaborating on cool projects
